@@ -23,7 +23,7 @@ Python · NumPy · Pandas · Matplotlib · GUDHI · Jupyter Notebook
 python -m venv .venv
 # macOS / Linux:
 source .venv/bin/activate
-# Windows PowerShell: .venv\\Scripts\\Activate.ps1
+# Windows PowerShell: .venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 jupyter notebook notebooks/topological_analysis.ipynb
 ```
